@@ -171,7 +171,8 @@ App::plugin('oblik/link-field', [
     ],
     'translations' => [
         'en' => require_once __DIR__ . '/languages/en.php',
-        'de' => require_once __DIR__ . '/languages/de.php'
+        'de' => require_once __DIR__ . '/languages/de.php',
+        'fr' => require_once __DIR__ . '/languages/fr.php'
     ],
     'fieldMethods' => [
         'toLinkObject' => function ($field) {
