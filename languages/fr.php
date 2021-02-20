@@ -3,14 +3,14 @@
 return [
   'url' => 'URL',
   'page' => 'Page',
-  'file' => 'File',
-  'email' => 'Email',
-  'tel' => 'Phone',
-  'label.text' => 'Text',
-  'label.popup' => 'Popup',
+  'file' => 'Fichier',
+  'email' => 'Courriel',
+  'tel' => 'Téléphone',
+  'label.text' => 'Texte',
+  'label.popup' => 'Pop-up',
   'label.fragment' => 'Fragment',
-  'label.settings' => 'Settings',
-  'label.close' => 'Close',
-  'placeholder.elementid' => 'Element ID',
-  'error.type' => 'Invalid field type: {type}'
+  'label.settings' => 'Paramètres',
+  'label.close' => 'Fermer',
+  'placeholder.elementid' => 'ID d’élément',
+  'error.type' => 'Type de champs incorrect : {type}'
 ];
